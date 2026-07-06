@@ -1,5 +1,10 @@
 # ♻️ Copper Recycling Decision System
 
+> **Case Study #1**
+
+A real-world data analytics project focused on evaluating the economic viability of urban copper recycling in Argentina.
+
+
 ## 📌 Project Overview
 
 Every weekend, I noticed trucks driving through my neighborhood in Argentina buying old refrigerators, batteries, washing machines, microwaves, and clothes dryers.
@@ -81,9 +86,9 @@ Industrial Market
 
 ---
 
-## 📈 Initial Findings
+## 📈 Research Results
 
-Preliminary analysis suggests:
+The research revealed:
 
 * Copper prices for recyclers in Argentina have increased significantly during the last two years.
 * The decision to sell depends not only on price but also on accumulated inventory volume.
@@ -91,6 +96,52 @@ Preliminary analysis suggests:
 * Market timing and international copper trends may influence profitability.
 
 ---
+
+# 📊 Final Results
+
+The economic model produced the following monthly estimates:
+
+| Metric | Value |
+|---------|-------|
+| Copper Recovery | **25.84 kg** |
+| Monthly Revenue | **ARS $400,520** |
+| Monthly Gross Profit | **ARS $200,520** |
+| Best ROI | **558.75%** |
+
+---
+
+## 🏆 Asset Ranking
+
+| Asset | ROI |
+|--------|----:|
+| Air Conditioner | **558.75%** |
+| Microwave Transformer | **84.45%** |
+| Washing Machine Motor | **58.10%** |
+| Dryer Motor | **31.75%** |
+| Refrigerator | **5.40%** |
+
+---
+
+## 💡 Main Discovery
+
+The profitability of urban mining depends primarily on **asset selection**.
+
+Air conditioners generated the highest return on investment, while refrigerators produced only a marginal return.
+
+This demonstrates that data analytics can identify which recyclable assets maximize profitability.
+
+
+## 🌐 Interactive Dashboard
+
+The project includes an interactive Streamlit dashboard that allows users to explore the economic performance of different recyclable assets.
+
+Features include:
+
+- KPI Dashboard
+- Asset Ranking
+- ROI Analysis
+- Profitability Analysis
+- Decision Support
 
 ## 🧠 Decision Model
 
@@ -148,7 +199,7 @@ copper-recycling-decision-system/
 
 ---
 
-## 🚀 Future Development
+## 🚀 Next Steps
 
 Planned features include:
 
@@ -163,4 +214,18 @@ Planned features include:
 
 ## 👨‍💻 Author
 
-This project was developed as an independent data analytics and business research project focused on urban recycling economics and decision support systems.
+## 👨‍💻 Author
+
+**Mario Hernán Maciel**
+
+Data Analytics • Logistics • Inventory Management
+
+This project was independently developed as part of my Data Analytics portfolio, combining field observation, economic modeling, and decision-support analysis to solve a real-world business problem.
+
+GitHub:
+
+https://github.com/marhermac
+
+LinkedIn:
+
+www.linkedin.com/in/marmaciel
