@@ -4,6 +4,10 @@
 
 A real-world data analytics project focused on evaluating the economic viability of urban copper recycling in Argentina.
 
+## 🌐 Live Demo
+
+https://copper-recycling-decision-system-tbkkp9iwjlvlvmsjuyyizb.streamlit.app
+
 
 ## 📌 Project Overview
 
